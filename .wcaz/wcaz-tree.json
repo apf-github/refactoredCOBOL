@@ -1,10 +1,11 @@
 {
   "cobol": {
-    "expand": true,
+    "expand": false,
     "scan": false,
     "exclude": [],
     "files": {
-      "RV3C0100.cbl": {}
+      "RV3C0100.cbl": {},
+      "NEWALL.cbl": {}
     }
   }
 }
