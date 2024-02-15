@@ -46,5 +46,29 @@
   [
     "Rvfc007",
     "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\RV3C0100.cbl"
+  ],
+  [
+    "WsMiscVar",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+  ],
+  [
+    "Dclloanmstr",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+  ],
+  [
+    "Idc015.CustmTable",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+  ],
+  [
+    "LoaninptFile",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+  ],
+  [
+    "Idc015Loanmstr",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+  ],
+  [
+    "LOANMSTR",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
   ]
 ]
