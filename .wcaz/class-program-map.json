@@ -25,7 +25,7 @@
   ],
   [
     "F007DtaRieccim",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ],
   [
     "VaAlcons",
@@ -33,11 +33,11 @@
   ],
   [
     "F007Crrrisk",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ],
   [
     "F007DtaRvecasn",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ],
   [
     "RV3C0100",
@@ -45,7 +45,7 @@
   ],
   [
     "Rvfc007",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ],
   [
     "WsMiscVar",
@@ -57,7 +57,7 @@
   ],
   [
     "Idc015.CustmTable",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ],
   [
     "LoaninptFile",
@@ -73,10 +73,18 @@
   ],
   [
     "CALCAMT",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ],
   [
     "A2200ADD",
     "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\A2200ADD.cbl"
+  ],
+  [
+    "VA-ALCONS",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
+  ],
+  [
+    "Idc015.Loanmstr",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT1.cbl"
   ]
 ]
