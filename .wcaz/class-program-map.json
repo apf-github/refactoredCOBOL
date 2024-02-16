@@ -25,19 +25,19 @@
   ],
   [
     "F007DtaRieccim",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\RV3C0100.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
   ],
   [
     "VaAlcons",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\RV3C0100.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
   ],
   [
     "F007Crrrisk",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\RV3C0100.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
   ],
   [
     "F007DtaRvecasn",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\RV3C0100.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
   ],
   [
     "RV3C0100",
@@ -45,7 +45,7 @@
   ],
   [
     "Rvfc007",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\RV3C0100.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
   ],
   [
     "WsMiscVar",
@@ -70,5 +70,9 @@
   [
     "LOANMSTR",
     "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\LOANMSTR.cbl"
+  ],
+  [
+    "CALCAMT",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
   ]
 ]
