@@ -13,11 +13,11 @@
   ],
   [
     "CustinptFile",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\PGBPRTXN.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\A2200ADD.cbl"
   ],
   [
     "CustinPriKey",
-    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\PGBPRTXN.cbl"
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\A2200ADD.cbl"
   ],
   [
     "DclacnCustmTable",
@@ -74,5 +74,9 @@
   [
     "CALCAMT",
     "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\CALCAMT.cbl"
+  ],
+  [
+    "A2200ADD",
+    "c:\\Users\\Administrator\\Desktop\\WCA4Z-Data\\refactoredCOBOL\\refactoredCOBOL\\cobol\\A2200ADD.cbl"
   ]
 ]
